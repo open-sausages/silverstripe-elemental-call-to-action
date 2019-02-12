@@ -46,6 +46,7 @@ class ElementCallToAction extends BaseElement
 
     private static $defaults = [
     ];
+    private static $inline_editable = false;
 
     private static $colors = [];
 
