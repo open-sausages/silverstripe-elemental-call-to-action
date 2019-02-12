@@ -1,0 +1,13 @@
+en:
+  Derralf\Elements\CallToAction\Element\ElementCallToAction:
+    BlockType: Call-to-Action
+    PLURALNAME: Call-to-Actions
+    PLURALS:
+      one: 'Call-to-Action'
+      other: '{count} Call-to-Actions'
+    SINGULARNAME: Call-to-Action
+    ColorLabel: Color
+    ReadMoreLinkLabel: Read more link
+    CUSTOM_COLORS: Select a color...
+    TitleLabel: Title
+    SortLabel: Sort

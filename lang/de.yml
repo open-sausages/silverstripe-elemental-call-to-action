@@ -1,0 +1,12 @@
+de:
+  Derralf\Elements\CallToAction\Element\ElementCallToAction:
+    PLURALNAME: CTA-Elemente, einfach mit Button
+    PLURALS:
+      one: CTA-Element
+      other: '{count} CTA-Elemente'
+    SINGULARNAME: CTA-Element, einfach mit Button
+    ColorLabel: Farbe
+    ReadMoreLinkLabel: Link
+    CUSTOM_COLORS: Farbwahl
+    TitleLabel: Titel
+    SortLabel: Sortierung
