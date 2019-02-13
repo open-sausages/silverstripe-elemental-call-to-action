@@ -4,8 +4,8 @@ namespace Derralf\Elements\CallToAction\Element;
 
 
 use DNADesign\Elemental\Models\BaseElement;
-use Sheadawson\Linkable\Forms\LinkField;
-use Sheadawson\Linkable\Models\Link;
+use gorriecoe\LinkField\LinkField;
+use gorriecoe\Link\Models\Link;
 use SilverStripe\Core\Config\Config;
 use SilverStripe\Forms\DropdownField;
 
@@ -62,7 +62,7 @@ class ElementCallToAction extends BaseElement
             }
 
             // ReadMoreLink: use Linkfield
-            $ReadMoreLink = LinkField::create('ReadMoreLinkID', 'Link');
+            $ReadMoreLink = LinkField::create('ReadMoreLink', 'Link', $this);
             $fields->replaceField('ReadMoreLinkID', $ReadMoreLink);
 
 

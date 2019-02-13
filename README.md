@@ -6,7 +6,7 @@ A simple Call-to-Action block with HTML-Text and button
 
 * SilverStripe ^4.2
 * dnadesign/silverstripe-elemental ^4.0
-* sheadawson/silverstripe-linkable ^2.0@dev
+* gorriecoe/silverstripe-linkfield
 
 ## Suggestions
 * derralf/elemental-styling

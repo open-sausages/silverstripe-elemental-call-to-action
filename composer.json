@@ -13,7 +13,7 @@
     "require": {
         "dnadesign/silverstripe-elemental": "^4",
         "silverstripe/vendor-plugin": "^1.0",
-        "sheadawson/silverstripe-linkable": "^2.0@dev"
+        "gorriecoe/silverstripe-linkfield": "dev-master"
     },
     "extra": {
         "branch-alias": {
